@@ -9,7 +9,7 @@ Participated in the Amazon ML School challenge focused on matching business enti
 - **Candidate Generation:** Narrowed down potential matches using a blocking strategy to reduce unnecessary record comparisons.
 - **Entity Matching:** Compared candidate business records to identify matching entities across multiple sources.
 - **Evaluation:** Focused on precision-oriented matching and validation using the challenge's evaluation metric.
-- **Submission Generation:** Prepared the required `matching_results.tsv` and `candidate_pairs.tsv` output files.
+- **Submission Generation:** Prepared the required `matching_results.tsv` output file.
 
 ### Results
 - **Achieved Score:** 84.876523%
